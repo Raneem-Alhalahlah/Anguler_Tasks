@@ -1,0 +1,20 @@
+<p>Login Form!</p>
+
+
+<br />
+
+
+<div style="width: 500px; margin: 0 auto;">
+  <form #userRegester="ngForm" (ngSubmit)="checkIfUserLogin(userRegester.value)">
+    <div class="form-group">
+      <label for="exampleInputEmail1">User Name</label>
+      <input type="text" class="form-control" name="UserName" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter username" ngModel>
+    </div>
+    <div class="form-group">
+      <label for="exampleInputEmail1">Email address</label>
+      <input type="email" class="form-control" name="Email" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email" ngModel>
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary">Submit</button>
+  </form>
+</div>
