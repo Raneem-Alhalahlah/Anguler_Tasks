@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\AngularTask5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA672F5-0DD9-403D-8CE5-204D65D3A5A8}|angulartask2.client\\angulartask2.client.esproj|c:\\users\\orange\\desktop\\angulartask5\\angulartask2.client\\src\\app\\raneem\\admin\\updateservic\\updateservic.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DA672F5-0DD9-403D-8CE5-204D65D3A5A8}|angulartask2.client\\angulartask2.client.esproj|solutionrelative:angulartask2.client\\src\\app\\raneem\\admin\\updateservic\\updateservic.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA672F5-0DD9-403D-8CE5-204D65D3A5A8}|angulartask2.client\\angulartask2.client.esproj|c:\\users\\orange\\desktop\\angulartask5\\angulartask2.client\\src\\app\\raneem\\admin\\get-services-admin\\get-services-admin.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DA672F5-0DD9-403D-8CE5-204D65D3A5A8}|angulartask2.client\\angulartask2.client.esproj|solutionrelative:angulartask2.client\\src\\app\\raneem\\admin\\get-services-admin\\get-services-admin.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA672F5-0DD9-403D-8CE5-204D65D3A5A8}|angulartask2.client\\angulartask2.client.esproj|c:\\users\\orange\\desktop\\angulartask5\\angulartask2.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{1DA672F5-0DD9-403D-8CE5-204D65D3A5A8}|angulartask2.client\\angulartask2.client.esproj|solutionrelative:angulartask2.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA672F5-0DD9-403D-8CE5-204D65D3A5A8}|angulartask2.client\\angulartask2.client.esproj|c:\\users\\orange\\desktop\\angulartask5\\angulartask2.client\\src\\app\\raneem\\admin\\updateservic\\updateservic.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{1DA672F5-0DD9-403D-8CE5-204D65D3A5A8}|angulartask2.client\\angulartask2.client.esproj|solutionrelative:angulartask2.client\\src\\app\\raneem\\admin\\updateservic\\updateservic.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA672F5-0DD9-403D-8CE5-204D65D3A5A8}|angulartask2.client\\angulartask2.client.esproj|c:\\users\\orange\\desktop\\angulartask5\\angulartask2.client\\src\\app\\raneem\\admin\\dashbord\\dashbord.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DA672F5-0DD9-403D-8CE5-204D65D3A5A8}|angulartask2.client\\angulartask2.client.esproj|solutionrelative:angulartask2.client\\src\\app\\raneem\\admin\\dashbord\\dashbord.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA672F5-0DD9-403D-8CE5-204D65D3A5A8}|angulartask2.client\\angulartask2.client.esproj|c:\\users\\orange\\desktop\\angulartask5\\angulartask2.client\\src\\app\\raneem\\services\\services.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DA672F5-0DD9-403D-8CE5-204D65D3A5A8}|angulartask2.client\\angulartask2.client.esproj|solutionrelative:angulartask2.client\\src\\app\\raneem\\services\\services.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543EC02D-FE65-46CE-A77F-EF4712FDFE97}|AngularTask2.Server\\AngularTask2.Server.csproj|c:\\users\\orange\\desktop\\angulartask5\\angulartask2.server\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543EC02D-FE65-46CE-A77F-EF4712FDFE97}|AngularTask2.Server\\AngularTask2.Server.csproj|solutionrelative:angulartask2.server\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543EC02D-FE65-46CE-A77F-EF4712FDFE97}|AngularTask2.Server\\AngularTask2.Server.csproj|c:\\users\\orange\\desktop\\angulartask5\\angulartask2.server\\dtos\\addservicesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543EC02D-FE65-46CE-A77F-EF4712FDFE97}|AngularTask2.Server\\AngularTask2.Server.csproj|solutionrelative:angulartask2.server\\dtos\\addservicesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dashbord.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\AngularTask5\\angulartask2.client\\src\\app\\Raneem\\Admin\\dashbord\\dashbord.component.html",
+              "RelativeDocumentMoniker": "angulartask2.client\\src\\app\\Raneem\\Admin\\dashbord\\dashbord.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\AngularTask5\\angulartask2.client\\src\\app\\Raneem\\Admin\\dashbord\\dashbord.component.html",
+              "RelativeToolTip": "angulartask2.client\\src\\app\\Raneem\\Admin\\dashbord\\dashbord.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-06T06:22:43.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "get-services-admin.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\AngularTask5\\angulartask2.client\\src\\app\\Raneem\\Admin\\get-services-admin\\get-services-admin.component.html",
+              "RelativeDocumentMoniker": "angulartask2.client\\src\\app\\Raneem\\Admin\\get-services-admin\\get-services-admin.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\AngularTask5\\angulartask2.client\\src\\app\\Raneem\\Admin\\get-services-admin\\get-services-admin.component.html",
+              "RelativeToolTip": "angulartask2.client\\src\\app\\Raneem\\Admin\\get-services-admin\\get-services-admin.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-06T06:21:04.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "services.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\AngularTask5\\angulartask2.client\\src\\app\\Raneem\\services\\services.component.html",
+              "RelativeDocumentMoniker": "angulartask2.client\\src\\app\\Raneem\\services\\services.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\AngularTask5\\angulartask2.client\\src\\app\\Raneem\\services\\services.component.html",
+              "RelativeToolTip": "angulartask2.client\\src\\app\\Raneem\\services\\services.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-06T06:18:39.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "updateservic.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\AngularTask5\\angulartask2.client\\src\\app\\Raneem\\Admin\\updateservic\\updateservic.component.ts",
+              "RelativeDocumentMoniker": "angulartask2.client\\src\\app\\Raneem\\Admin\\updateservic\\updateservic.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\AngularTask5\\angulartask2.client\\src\\app\\Raneem\\Admin\\updateservic\\updateservic.component.ts",
+              "RelativeToolTip": "angulartask2.client\\src\\app\\Raneem\\Admin\\updateservic\\updateservic.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-06T06:14:58.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "updateservic.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\AngularTask5\\angulartask2.client\\src\\app\\Raneem\\Admin\\updateservic\\updateservic.component.html",
+              "RelativeDocumentMoniker": "angulartask2.client\\src\\app\\Raneem\\Admin\\updateservic\\updateservic.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\AngularTask5\\angulartask2.client\\src\\app\\Raneem\\Admin\\updateservic\\updateservic.component.html",
+              "RelativeToolTip": "angulartask2.client\\src\\app\\Raneem\\Admin\\updateservic\\updateservic.component.html",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAUAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-06T06:14:19.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\AngularTask5\\angulartask2.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "angulartask2.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\AngularTask5\\angulartask2.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "angulartask2.client\\src\\app\\app.module.ts",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAADUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-06T06:13:14.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "addServicesDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\AngularTask5\\AngularTask2.Server\\Dtos\\addServicesDTO.cs",
+              "RelativeDocumentMoniker": "AngularTask2.Server\\Dtos\\addServicesDTO.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\AngularTask5\\AngularTask2.Server\\Dtos\\addServicesDTO.cs",
+              "RelativeToolTip": "AngularTask2.Server\\Dtos\\addServicesDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T06:08:47.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServicesController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\AngularTask5\\AngularTask2.Server\\Controllers\\ServicesController.cs",
+              "RelativeDocumentMoniker": "AngularTask2.Server\\Controllers\\ServicesController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\AngularTask5\\AngularTask2.Server\\Controllers\\ServicesController.cs",
+              "RelativeToolTip": "AngularTask2.Server\\Controllers\\ServicesController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAswEIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T06:08:04.839Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
